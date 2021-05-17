@@ -23,7 +23,9 @@ Questo è un generatore elementare di assets, realizzato con Yeoman generator-ge
 npm install -g yo
 ```
 
-Scarica il generatore dalla repository in una cartella. In quella stessa cartella, installa i moduli node, poi crea un link globale, per utilizzare questo generatore da terminale, digitando:
+Clona il <a href='https://github.com/zorida/generator-zorida-landing/' target='blank'>generatore dalla repository presente su GitHub</a> in una cartella.
+
+In quella stessa cartella, installa i moduli node, poi crea un link globale, per utilizzare questo generatore da terminale, digitando:
 
 ```bash
 npm install
